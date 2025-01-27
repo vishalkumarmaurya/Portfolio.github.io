@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vishal Kumar Maurya - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Vishal Kumar Maurya</h1>
+        <p>Fresher in Agricultural Sciences | Enthusiastic Learner | Aspiring Digital Marketer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#interests">Interests</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>As a B.Sc. (Hons) Agriculture student at Bundelkhand University, Jhansi, I am passionate about agriculture, sustainability, and modern farming technologies...</p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B.Sc. (Hons) Agriculture</strong> | Bundelkhand University, Jhansi (2022–2026)
+                <p>Gained hands-on experience through NSS camps and experiential learning programs.</p>
+            </li>
+            <li><strong>Intermediate (12th, Agriculture Science)</strong> | Ramsurat Malati Intermediate College, Mirzapur (2020–2022)
+                <p>Scored 74.7%, focusing on agriculture-related studies.</p>
+            </li>
+            <li><strong>High School (10th, Science)</strong> | Jansewa Intermediate College, Sonbhadra (2018–2020)
+                <p>Achieved 77%, showcasing interest in computer science.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Office Tools: Microsoft Word, PowerPoint, and Excel</li>
+            <li>Digital Literacy: Fundamentals of Computer Concepts (NIELIT)</li>
+            <li>Digital Marketing: Google Garage Certification</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Indian Chamber of Food and Agriculture (March 2024 – May 2024)</strong>
+                <p>Completed an internship focused on agricultural subsidies...</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Course on Computer Concepts (CCC) – NIELIT</li>
+            <li>Fundamentals of Digital Marketing – Google Garage</li>
+            <li>Agriculture 4.0: The Future of Farming Technology – Just Agriculture Magazine</li>
+        </ul>
+    </section>
+
+    <section id="interests">
+        <h2>Interests</h2>
+        <ul>
+            <li>Exploring advancements in agricultural technology</li>
+            <li>International and domestic travel</li>
+            <li>Skydiving and video games</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Information</h2>
+        <p>Phone: +91 7991660085</p>
+        <p>Email: <a href="mailto:vishalkumarmaurya913@gmail.com">vishalkumarmaurya913@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/vishalkmaurya">linkedin.com/in/vishalkmaurya</a></p>
+        <p>Location: Madhupur, Jhaphari, Sonbhadra, Uttar Pradesh, India</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Vishal Kumar Maurya. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    max-width: 800px;
+}
+
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
